@@ -4,7 +4,7 @@ import numpy as np
 import time
 from matplotlib.colors import ListedColormap
 
-st.title("AI禁止")
+st.title("")
 ROWS = 30
 COLS = 50
 p = 0.3
